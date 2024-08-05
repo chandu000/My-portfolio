@@ -24,9 +24,9 @@ export const EXPERIENCES = [
   },
   
   {
-    year: "2020 - 2021",
+    year: "2019 - 2021",
     role: "Software Engineer",
-    company: "Paypal",
+    company: "Grepthor Software Solutions",
     description: `I implemented native mobile applications for Android and iOS using Android Studio and XCode, and spearheaded the CI/CD flow using GitHub and Fastlane to enhance software quality and increase code profitability in production. I integrated secure authentication in RESTful APIs using OAuth2 tokens and JWT. Additionally, I developed the front end of applications according to client requirements using HTML, CSS, Bootstrap, JavaScript, jQuery, JSON, and ReactJS, which significantly increased user retention and reduced manual errors.`,
     technologies: ["Javascript", "Sql","React-native", "React.js", "Sqlite"],
   },
